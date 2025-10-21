@@ -12,3 +12,6 @@ Using machine learning to detect arsenic-induced skin lesions from images to sup
 
 ## Contact
 Amit: amit.das1@northsouth.edu
+
+## Updates
+- [Update 1 Report](updates/Update_1_Report.pdf) – Submitted on October 21, 2025
